@@ -1,0 +1,11 @@
+.container2 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+img {
+  width: 200px;
+}
+.item {
+  width: 250px;
+}
